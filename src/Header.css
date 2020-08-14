@@ -1,0 +1,14 @@
+.header {
+	background-color: gray;
+	display: flex;
+	/* justify-content: space-between; */
+}
+
+.link {
+	display: flex;
+	margin: 30px 30px 30px 30px;
+}
+
+.logo {
+	flex: 10;
+}
